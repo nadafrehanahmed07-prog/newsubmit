@@ -1,0 +1,19 @@
+nav{
+    background-color: #0f1111;  
+    height: 60px;
+}
+#yello{
+    color: #fe8a05;
+}
+a{
+    color: white;
+}
+#button{
+    background-color: #140b00;
+    color: rgb(245, 10, 10);
+}
+#he{
+    background-color: red;
+    padding: 100px;
+    margin: 10%;
+}

@@ -1,0 +1,16 @@
+#inner{
+    font-size: 10px;
+}
+#outer{
+    font-size: 25px;
+}
+.div{
+    background-color : rgb(255, 7, 135);
+    width : 100px;
+    height : 100px; 
+    border: 2px solid black;}
+.box{
+    background-color: rgb(25, 218, 99);
+    height: 100px;
+    width: 100px;
+}

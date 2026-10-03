@@ -1,0 +1,32 @@
+.navbar{
+    border: 1px solid #000;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px;
+    background-color: rgb(16, 222, 109);
+
+}
+.navbar a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+.outer{
+    width: 500px;
+    height: 300px;
+    border: 1px solid #c33f92;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(73, 3, 253);
+}
+.inner{
+    width: 200px;
+    height: 100px;
+    border: 1px solid #a0f50f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 115, 0);
+}

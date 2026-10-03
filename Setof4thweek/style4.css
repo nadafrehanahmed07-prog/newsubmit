@@ -1,0 +1,16 @@
+body{
+    font-size: 20px;
+}
+.parent{
+    height: 50vh;
+    width: 100vw;
+    font-size: 2rem;
+    background-color: red;
+}
+.child{
+    height: 50%;
+    width: 50%;
+    background-color: rgb(255, 213, 0);
+    font-size: 2em;
+}
+

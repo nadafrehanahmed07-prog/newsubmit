@@ -1,0 +1,10 @@
+.Hi{
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+}
+@media (min-width:400px)and(max-width:600){
+    .Hi{
+        background-color: blue;
+    }
+}
